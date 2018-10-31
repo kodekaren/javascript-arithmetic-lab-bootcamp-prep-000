@@ -30,6 +30,6 @@ function dec(a) {
   return number
  }
  function preserveDecimal(a) {
-   parseFloat(a,10)
+   parseFloat(a)
    return number
  }
